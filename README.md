@@ -1,2 +1,2 @@
 # Convex-Optimization
-Solving Sudoku's Table 
+Solving Sudoku's Table (Using Back tracking) 
